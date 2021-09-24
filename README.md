@@ -1,3 +1,3 @@
-# express-tutiorial
+# express-tutorial
 Youtube Link for Express Tutorial
 https://www.youtube.com/watch?v=L72fhGm1tfE
